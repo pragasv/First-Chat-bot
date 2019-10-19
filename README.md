@@ -26,3 +26,9 @@ After 4000 iterations the following losses were incurred
 The trained chatbots responses for inputs were as below
 
 ![](Capture_output.PNG)
+
+Conclusion :- 
+There is room for development in making the bot understand the statements between a question and a statement 
+Better and more datasets would be a way forward with , higher number of iterations. 
+Complex attention mechanisms would be a way forward for better response. 
+And complex encoder and decoder structures
